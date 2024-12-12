@@ -16,8 +16,8 @@ This project is a Django-based application for managing users. It provides featu
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/lashaTsadzikidze/user-management.git
-   cd user-management
+   git clone https://github.com/lashaTsadzikidze/user_management.git
+   cd user_management
    ```
 
 2. **Set up a virtual environment** (optional but recommended):
